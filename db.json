@@ -1,0 +1,19 @@
+{
+ "tipoComodidade": [
+    {
+      "id": 1,
+      "titulo": "quarto",
+      "descricao": "comodidades ou caracteristicas do quarto"
+    },
+    {
+      "id": 2,
+      "titulo": "geral",
+      "descricao": "comodidades ou caracteristicas gerais que cercam o quarto ou hotel"
+    },
+    {
+      "id": 3,
+      "titulo": "higiene",
+      "descricao": "caracteristicas relacionada a higiene e banho"
+    }
+  ]
+}
